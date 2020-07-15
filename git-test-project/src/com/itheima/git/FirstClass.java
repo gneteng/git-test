@@ -7,9 +7,11 @@ public class FirstClass {
 
         //test
         System.out.println("hello world");
+
+        test();
     }
 
-    public void test(){
+    public static void test(){
         System.out.println("hello test");
     }
 }
